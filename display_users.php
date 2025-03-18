@@ -79,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['delete'])) {
 </head>
 <body>
 
-    <h1>Users List LIKE NA TO</h1>
+    <h1>Users List na masaya</h1>
 
     <?php
     if (isset($_SESSION['message'])) {
